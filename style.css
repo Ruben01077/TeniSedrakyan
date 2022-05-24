@@ -121,6 +121,7 @@ border-right-style: groove;
 display: inline-block;
 width: 44%;
 padding-left: 20px;
+    transform:translate(0%, 25%);
 
 
 
